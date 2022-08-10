@@ -1,0 +1,6 @@
+C:\Users\HP\OneDrive\Documentos\Visual Studio 2022\Remedial1\EntidadCatalogo\bin\Debug\EntidadCatalogo.dll
+C:\Users\HP\OneDrive\Documentos\Visual Studio 2022\Remedial1\EntidadCatalogo\bin\Debug\EntidadCatalogo.pdb
+C:\Users\HP\OneDrive\Documentos\Visual Studio 2022\Remedial1\EntidadCatalogo\obj\Debug\EntidadCatalogo.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Documentos\Visual Studio 2022\Remedial1\EntidadCatalogo\obj\Debug\EntidadCatalogo.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Documentos\Visual Studio 2022\Remedial1\EntidadCatalogo\obj\Debug\EntidadCatalogo.dll
+C:\Users\HP\OneDrive\Documentos\Visual Studio 2022\Remedial1\EntidadCatalogo\obj\Debug\EntidadCatalogo.pdb

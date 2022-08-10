@@ -1,0 +1,13 @@
+C:\Users\HP\OneDrive\Documentos\Visual Studio 2022\Remedial1\LogicaCatalogo\obj\Debug\LogicaCatalogo.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Documentos\Visual Studio 2022\Remedial1\LogicaCatalogo\obj\Debug\LogicaCatalogo.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Documentos\Visual Studio 2022\Remedial1\LogicaCatalogo\bin\Debug\LogicaCatalogo.dll
+C:\Users\HP\OneDrive\Documentos\Visual Studio 2022\Remedial1\LogicaCatalogo\bin\Debug\LogicaCatalogo.pdb
+C:\Users\HP\OneDrive\Documentos\Visual Studio 2022\Remedial1\LogicaCatalogo\bin\Debug\AcessoCatalogo.dll
+C:\Users\HP\OneDrive\Documentos\Visual Studio 2022\Remedial1\LogicaCatalogo\bin\Debug\ClaseEntidadesRemedial.dll
+C:\Users\HP\OneDrive\Documentos\Visual Studio 2022\Remedial1\LogicaCatalogo\bin\Debug\EntidadCatalogo.dll
+C:\Users\HP\OneDrive\Documentos\Visual Studio 2022\Remedial1\LogicaCatalogo\bin\Debug\AcessoCatalogo.pdb
+C:\Users\HP\OneDrive\Documentos\Visual Studio 2022\Remedial1\LogicaCatalogo\bin\Debug\ClaseEntidadesRemedial.pdb
+C:\Users\HP\OneDrive\Documentos\Visual Studio 2022\Remedial1\LogicaCatalogo\bin\Debug\EntidadCatalogo.pdb
+C:\Users\HP\OneDrive\Documentos\Visual Studio 2022\Remedial1\LogicaCatalogo\obj\Debug\LogicaCatalogo.csproj.CopyComplete
+C:\Users\HP\OneDrive\Documentos\Visual Studio 2022\Remedial1\LogicaCatalogo\obj\Debug\LogicaCatalogo.dll
+C:\Users\HP\OneDrive\Documentos\Visual Studio 2022\Remedial1\LogicaCatalogo\obj\Debug\LogicaCatalogo.pdb
